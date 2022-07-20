@@ -37,7 +37,7 @@ ______________________________
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)
 </br>  
 
-<div id='header' align='left'>
+<div id='header' align='center'>
   <img src='https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif' width='400'/>
 
 
