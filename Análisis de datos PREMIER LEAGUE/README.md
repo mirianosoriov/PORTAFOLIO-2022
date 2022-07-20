@@ -11,7 +11,7 @@ El análisis de datos es un proceso que consiste en inspeccionar, limpiar y tran
 📩 You can contact me by: mosoriov@unsa.edu.pe. 🖇
 ______________________________
 
-<div id='header' align='center'>
+<div id='header' align='left'>
 
   <img src='<iframe src="https://giphy.com/embed/26tPk8V23FaMJ0dJm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/angrybirds-cute-angry-birds-hatchlings-26tPk8V23FaMJ0dJm">via GIPHY</a></p>' width='400'/>
   
