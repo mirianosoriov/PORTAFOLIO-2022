@@ -33,7 +33,6 @@ ______________________________
   <img src='https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif' width='400'/>
 
 
-</div>
 ## Other ways to contact me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mirian_Osorio-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UC1WDCd-PpCVMOb6L2C_jPlA)
