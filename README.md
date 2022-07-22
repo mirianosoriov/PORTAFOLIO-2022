@@ -7,7 +7,7 @@
 ## 📩 You can contact me by: mosoriov@unsa.edu.pe. 🖇
 _  
 <div id='header' align='center'>
-  <img src='https://sendeyo.com/updownload/file/script/cdb51f89c4c84a7db7757d68c96a9d8d.webp' width='900'/>
+  <img src='https://sendeyo.com/updownload/file/script/8192748e5dc46d80cd3ab5f33792ae62.webp' width='900'/>
   
 
  
@@ -20,8 +20,6 @@ _
 [![Discord](https://img.shields.io/badge/Discord-MIRIAN-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/j)
 </br>
 ### This profile is for all this, to invite you to immerse yourself in my work with me and let's learn together. 💫
-<div id='header' align='center'>
-  <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='400'/>
 
 ### We start in...
 
